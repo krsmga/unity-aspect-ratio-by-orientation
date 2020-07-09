@@ -4,7 +4,7 @@
  * @create date 2020-07-09 09:34:21
  * @modify date 2020-07-09 09:34:21
  * @desc You can use this class attached to a GUI element to keep it in its original proportions when rotating the device. (Portrait, LandscapeLeft or LandscapeRight).
- * @github https://github.com/krsmga
+ * @github https://github.com/krsmga/AspectRatioByOrientation
  */
 using System.Collections;
 using System.Collections.Generic;
